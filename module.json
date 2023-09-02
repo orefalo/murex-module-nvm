@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "nvm",
+    "Summary": "Node version manager ported to Murex",
+    "Version": "1.0",
+    "Source": "nvm.mx",
+    "Dependencies": {
+      "Optional": [],
+      "Required": [],
+      "Platform": ["posix"]
+    }
+  }
+]

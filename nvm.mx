@@ -1,0 +1,2 @@
+
+$PATH -> :paths: prepend $HOME/.local/share/nvm/v18.16.0/bin/ -> export PATH
